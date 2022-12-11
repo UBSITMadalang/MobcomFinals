@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "350549111998",
+    "firebase_url": "https://madalang-98bec-default-rtdb.firebaseio.com",
+    "project_id": "madalang-98bec",
+    "storage_bucket": "madalang-98bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:9f8d2a1b8db488b82b1aef",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:b153c594624411852b1aef",
+        "android_client_info": {
+          "package_name": "com.example.courseconsultationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:dd8159c5e6fbeb8a2b1aef",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:f4a2f898630f25002b1aef",
+        "android_client_info": {
+          "package_name": "edu.ubaguio.madalang_addison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:1264850f82ce1f8d2b1aef",
+        "android_client_info": {
+          "package_name": "edu.ubaguio.madalangproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350549111998:android:1d251c70048b7e132b1aef",
+        "android_client_info": {
+          "package_name": "edu.ubaguio.mobcomfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx0C68amnzDtcCgqxiLJircI33g2fiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350549111998-51sdmpbiummodvql68vutrnlqv76p8u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
